@@ -1,0 +1,4 @@
+locations:
+- code_source:
+    module_name: dagster_tutorial_proj.definitions
+  location_name: dagster_tutorial_proj
