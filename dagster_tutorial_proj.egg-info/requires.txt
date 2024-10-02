@@ -1,0 +1,9 @@
+dagster
+dagster-cloud
+dagster_embedded_elt
+dlt
+requests
+
+[dev]
+dagster-webserver
+pytest
